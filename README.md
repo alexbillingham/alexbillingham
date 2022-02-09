@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I am a software
+* Software Engineer
+* Computer Science Degree
 
 <!--
 **TraitorXander/TraitorXander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
