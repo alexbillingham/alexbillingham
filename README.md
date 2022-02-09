@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://app.daily.dev/xander097"><img src="https://github.com/TraitorXander/TraitorXander/blob/master/devcard.svg" width="400" alt="Alex's Dev Card"/></a>
+<a href="https://app.daily.dev/xander097"><img src="https://raw.githubusercontent.com/TraitorXander/TraitorXander/421ee232530ecfb5d461f51b0b009dc0d6e39da2/devcard.svg" width="400" alt="Alex's Dev Card"/></a>
