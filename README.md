@@ -1,3 +1,5 @@
+![visitors](https://visitor-badge.glitch.me/badge?page_id=alexbillingham.alexbillingham&left_color=green&right_color=red)
+
 ### Hi, I'm Alex 👋
 <a href="https://app.daily.dev/xander097"><img src="https://raw.githubusercontent.com/TraitorXander/TraitorXander/421ee232530ecfb5d461f51b0b009dc0d6e39da2/devcard.svg" width="400" alt="Alex's Dev Card" align="right"/></a>
 
