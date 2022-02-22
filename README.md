@@ -6,7 +6,7 @@ I'm a Software Engineer, proficient in developing and debugging C++, C# and Pyth
 ### Current projects:
 - <a href="https://github.com/alexbillingham/ScalextricTimerAdvanced">Scalextric Lap Timer</a>
   - I wanted a way to time and track lap times on a Scalextric track. I am using a Raspberry Pi and few sensors to do so. 
-- <a href="https://github.com/alexbillingham/AutomationsAndScripts">Automations and Scriptsr</a>
+- <a href="https://github.com/alexbillingham/AutomationsAndScripts">Automations and Scripts</a>
   - Collection of scripts and programs I have written to help speed up simple everyday tasks or to complete single tasks alot quicker.
 
 <!--
