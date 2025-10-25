@@ -5,13 +5,7 @@
 ### Hi, I'm Alex 👋
 <a href="https://app.daily.dev/xander097"><img src="https://raw.githubusercontent.com/TraitorXander/TraitorXander/421ee232530ecfb5d461f51b0b009dc0d6e39da2/devcard.svg" width="400" alt="Alex's Dev Card" align="right"/></a>
 
-I'm a Software Engineer, proficient in developing and debugging C++, C# and Python code.
-
-### Current projects:
-- <a href="https://github.com/alexbillingham/ScalextricTimerAdvanced">Scalextric Lap Timer</a>
-  - I wanted a way to time and track lap times on a Scalextric track. I am using a Raspberry Pi and few sensors to do so. 
-- <a href="https://github.com/alexbillingham/AutomationsAndScripts">Automations and Scripts</a>
-  - Collection of scripts and programs I have written to help speed up simple everyday tasks or to complete single tasks alot quicker.
+Python developer and DevOps engineer. Strong problem solver experienced in automation and CI/CD.
 
 <!--
 **TraitorXander/TraitorXander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
